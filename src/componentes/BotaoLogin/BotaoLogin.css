@@ -1,0 +1,12 @@
+.botaoLogin {
+
+    padding: 12px 36px;
+    cursor: pointer;
+
+    border: none;
+    color: white;
+    border-radius: 16px;
+    font-size: 16px;
+    top: 21px;
+
+}

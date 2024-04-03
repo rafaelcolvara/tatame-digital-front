@@ -1,5 +1,6 @@
 import './Banner.css'
 import ImagemBanner from '../../imagens/logo-banner-menor.png'
+import BotaoLogin from '../BotaoLogin'
 
 export const Banner = () => {
     // JSX
@@ -18,7 +19,7 @@ export const Banner = () => {
                 </ul>
             </nav>
             <div className="login">
-            <button>Entrar</button>
+            <BotaoLogin/>
   </div>            
         </header>
     )
